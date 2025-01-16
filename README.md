@@ -29,8 +29,7 @@ Integração harmoniosa entre texto, áudio e visual, gerando impacto positivo.
 
 https://github.com/user-attachments/assets/18b60edb-89cd-4839-93b4-cd5eac1a68cb
 
-## 💭 Reflexão (Opcional)
-
+## 💭 Reflexão 
 
 
 Trabalhar com IA e ferramentas criativas como Vidnoz foi uma experiência enriquecedora. A colaboração entre tecnologia e minha visão pessoal resultou em um conteúdo que não só cumpre seu propósito, mas também demonstra como a tecnologia pode ser uma ferramenta poderosa para causas sociais. O maior desafio foi equilibrar emoção e simplicidade, mas o resultado final reflete minha dedicação e empatia com o tema.
